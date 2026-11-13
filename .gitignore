@@ -1,0 +1,5 @@
+.venv/
+ollama_data/
+__pycache__/
+*.pyc
+.env
